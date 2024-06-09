@@ -1,0 +1,11 @@
+.orders-heading {
+   color: darkorange !important  ;
+}
+
+.order-names {
+   color: darkgreen !important ;
+   font-weight: bold !important;
+}
+.status-check {
+   color: red !important ;
+}

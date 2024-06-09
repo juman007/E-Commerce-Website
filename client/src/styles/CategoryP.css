@@ -1,0 +1,9 @@
+.category-heading {
+   font-size: 30px !important;
+   color: orange !important;
+   font-weight: bold !important;
+}
+
+.category-heading-sub {
+   color: red !important;
+}
